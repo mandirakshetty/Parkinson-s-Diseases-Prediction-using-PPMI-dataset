@@ -20,7 +20,6 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 - **Source:** [Parkinson’s Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/)
 - **Format:** CSV (cleaned version)
 - **Key Columns:**
-  - `np1slpn`, `np1fatg`, `np1pain`, `np1urln`, `np1cnfn` – Symptom assessments
   - `stage` – Target variable representing Parkinson’s Disease stage
   - `patno` – Patient ID (removed during preprocessing)
 
