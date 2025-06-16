@@ -4,7 +4,7 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 
 ---
 
-## 📌 Objective
+##  Objective
 
 - Analyze the PPMI dataset for missing values and patterns.
 - Engineer relevant features such as symptom scores.
@@ -15,7 +15,7 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 - **Source:** [Parkinson’s Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/)
 - **Format:** CSV (cleaned version)
@@ -26,22 +26,22 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 
 ---
 
-## 📊 Workflow Overview
+##  Workflow Overview
 
-### 1. 🔍 Data Preprocessing
+### 1.  Data Preprocessing
 - Detect and visualize missing values
 - Drop unnecessary identifiers
 - Apply mean imputation for missing features
 - Engineer a new feature: `symptom_score` (sum of key symptoms)
 
-### 2. 📈 Exploratory Data Analysis
+### 2.  Exploratory Data Analysis
 - Dataset shape, types, and summary
 - Distribution of symptom scores
 - Correlation heatmap
 - Stage distribution bar plot
 - Pairplots of key symptom features
 
-### 3. 🤖 Model Training and Evaluation
+### 3.  Model Training and Evaluation
 - **Train/Test Split** using 80/20 ratio
 - Models applied:
   - Random Forest
@@ -53,15 +53,15 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
   - Classification Report
   - Confusion Matrix
 
-### 4. 🌟 Feature Selection and Importance
+### 4.  Feature Selection and Importance
 - Feature importance plot (XGBoost)
 - Model retraining on top 10 features
 
-### 5. 📊 Model Comparison
+### 5.  Model Comparison
 - Bar plot comparing accuracies of all models
 ---
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 
 - **Programming Language:** Python
 - **Libraries:**
@@ -72,7 +72,7 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 
 ---
 
-## 🧪 License
+##  License
 
 This repository is intended **for educational and academic use only**. Please refer to the [PPMI Terms of Use](https://www.ppmi-info.org/access-data-specimens/download-data/) for dataset licensing and compliance.
 
