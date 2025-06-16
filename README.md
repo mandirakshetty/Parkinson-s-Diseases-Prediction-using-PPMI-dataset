@@ -1,5 +1,4 @@
 # Parkinson-s-Diseases-Prediction-using-PPMI-dataset
-# 🧠 Parkinson’s Disease Prediction using PPMI Dataset
 
 This project aims to **predict the stage of Parkinson’s Disease** using clinical and neurological assessment data from the **Parkinson’s Progression Markers Initiative (PPMI)**. By leveraging machine learning algorithms and statistical analysis, the project explores how early symptoms and biomarker data can be used to classify disease progression stages effectively.
 
@@ -73,4 +72,7 @@ This project aims to **predict the stage of Parkinson’s Disease** using clinic
 
 ---
 
+## 🧪 License
+
+This repository is intended **for educational and academic use only**. Please refer to the [PPMI Terms of Use](https://www.ppmi-info.org/access-data-specimens/download-data/) for dataset licensing and compliance.
 
